@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "user": "Tanner",
+      "email": "Tanner@gmail.com",
+      "password": "123",
+      "review": "this movie is good."
+    },
+    {
+      "id": 1,
+      "user": "James",
+      "email": "James@gmail.com",
+      "password": "123",
+      "review": "this movie make me cry."
+    },
+    {
+      "id": 3,
+      "user": "Mike",
+      "email": "Mike@gmail.com",
+      "password": "123",
+      "review": "No idea what is going on... won't recommend."
+    },
+    {
+      "id": 4,
+      "user": "Lina",
+      "email": "Lina@gmail.com",
+      "password": "123",
+      "review": "My bf force me to watch this. No idea what so great about it"
+    },
+    {
+      "id": 5,
+      "user": "Micheal",
+      "email": "M12@gmail.com",
+      "password": "123",
+      "review": "Can't wait for the next movie!! "
+    },
+    {
+      "id": 6,
+      "user": "JJ",
+      "email": "jj@gmail.com",
+      "password": "1",
+      "review": "I love this movie!! ",
+      "mid": 1
+    },
+    {
+      "user": "Rick",
+      "review": "I wish i didn't watch this movie... it terrible",
+      "id": 7
+    }
+  ]
+}
